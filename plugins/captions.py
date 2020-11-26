@@ -36,7 +36,8 @@ async def old(bot, update):
         parse_mode="markdown", #also you can set html or none
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton('🦋name🦋', url='https://t.me/url')],
+                [InlineKeyboardButton('JOIN WITH US', url='https://t.me/joinchat/AAAAAFU1AgipIZGkQRVU1A')],
+                [InlineKeyboardButton('TV/WEB-SERIES', url='https://t.me/joinchat/AAAAAFCUe_EDnE_SlLjSaA')]
             ]  
         )
     )
